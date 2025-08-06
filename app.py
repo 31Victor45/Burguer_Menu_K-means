@@ -38,7 +38,7 @@ else:
     # Define custom colors for the clusters
     # You can customize these colors as you wish
     cluster_colors = {
-        "Alimento de consumo frecuente": 'mustard',
+        "Alimento de consumo frecuente": 'Khaki',
         "Alimento de consumo moderado":  'orange',
         "Alimento de consumo ocasional": 'red'
     }
