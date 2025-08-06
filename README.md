@@ -1,0 +1,1 @@
+Inserta una cantidad de Calorías (kcal) y Colesterol (mg) en esta app https://burguermenuk-means-wfwjtkhc7jucagfhcxtvn8.streamlit.app/  para saber si el alimento que contiene dichas cantidades es: uno de consumo frecuente, uno de consumo moderado o uno de consumo ocasional segun los expertos
